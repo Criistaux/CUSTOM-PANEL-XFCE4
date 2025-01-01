@@ -7,9 +7,9 @@ CUSTOM-PANEL-XFCE4 by CRIISTAUX
 
 2. Download the scripts
 
-	 RAM.sh			| RAM usage (%)
-	 CPU.sh			| Processor temperature (°C)
-	 NETWORK.sh		| Network Latency (ms)
+RAM.sh	| RAM usage (%)
+CPU.sh	| Processor temperature (°C)
+NETWORK.sh | Network Latency (ms)
 
-3. Add script to panel
+4. Add script to panel
 	> TUTO-CUSTOM-PANEL-XFCE4.png
